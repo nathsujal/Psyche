@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+sentence-transformers
+transformers
+sentencepiece
