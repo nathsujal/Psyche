@@ -1,9 +1,14 @@
 jupyterlab
 pandas
 numpy
+scikit-learn
+joblib
 matplotlib
 seaborn
 wordcloud
 sentence-transformers
 transformers
+torch
+huggingface-hub
 sentencepiece
+streamlit
