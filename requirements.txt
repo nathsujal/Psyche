@@ -12,3 +12,8 @@ torch
 huggingface-hub
 sentencepiece
 streamlit
+sounddevice
+soundfile
+tkinter
+groq
+python-dotenv
